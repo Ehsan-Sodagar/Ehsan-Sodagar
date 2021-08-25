@@ -2,7 +2,7 @@
 
 
 
-## I'm a Husband, Future Father, Data Scientist and Python Developer!!
+## I'm a Husband, Future Father, Data Scientist, Python Developer and Project Management Professional!
 
 - 🔭 I just finished my real-world Machine Learning model with Spotify
 - 🌱 I’m currently learning healthcare systems Machine Learning Models 
