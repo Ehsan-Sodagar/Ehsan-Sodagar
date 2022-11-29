@@ -7,7 +7,9 @@
 - 🔭 I just finished my real-world Machine Learning model with Spotify
 - 🌱 I’m currently learning healthcare systems Machine Learning Models 
 - 👯 I’m looking to collaborate with any other organizations
-- 🥅 2021 Goals: Contribute to Neural Netwok open source projects 
+- 🥅 I Contribute to Neural Netwok open source projects 
+- 🥅 I work with Ms.SQL Server, Oracle and Postgre SQL 
+- 🥅 I develop Pipeline through SSIS and Apache Airflow 
 - ⚡ Fun fact: I am a super middleweight boxer 
 
 ### Connect with me:
@@ -36,8 +38,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
