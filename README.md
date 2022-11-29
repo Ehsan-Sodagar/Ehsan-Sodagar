@@ -1,4 +1,4 @@
-### Hi there, I'm Ehsan  👋
+### Hi there, I'm Ethan  👋
 
 
 
